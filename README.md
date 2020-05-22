@@ -10,13 +10,13 @@ Based on [Huang's fuzzy thresholding method](http://www.ktl.elf.stuba.sk/study/v
 result compare otsu:
 ![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/sima.jpg?token=AJZQ6R2HKAT35BTACJOKRC26Y64CS)</br>
 fuzzy  
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/simaf.png)</br>
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/simaf.png?token=AJZQ6R4HTURHHQK4SQYE4MK6Y64GU)</br>
 otsu
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/simaotsu.png)</br>  
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/simaotsu.png?token=AJZQ6R27IPTMKSPTIFVBXZC6Y64HW)</br>  
 
 
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/tiananmen.png)</br>
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/tiananmen.png?token=AJZQ6R2OM6GWFW6BC7BZCIS6Y64KG)</br>
 fuzzy  
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/tiananmenf.png)</br>
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/tiananmenf.png?token=AJZQ6RYXHS4YGJ4EHL5SGRK6Y64K6)</br>
 otsu  
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/tiananmenotsu.png)</br>  
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/tiananmenotsu.png?token=AJZQ6RYNKCJJ5W2KBTVPNHK6Y64LS)</br>  
