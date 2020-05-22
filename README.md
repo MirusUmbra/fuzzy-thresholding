@@ -8,7 +8,7 @@ Based on [Huang's fuzzy thresholding method](http://www.ktl.elf.stuba.sk/study/v
 
 对比otsu的结果
 result compare otsu:
-![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/sima.jpg)</br>
+![mat](https://raw.githubusercontent.com/MirusUmbra/Display-data/master/fuzzy-thresholding/sima.jpg?token=AJZQ6R2HKAT35BTACJOKRC26Y64CS)</br>
 fuzzy  
 ![mat](https://github.com/MirusUmbra/Display-data/raw/master/fuzzy-thresholding/simaf.png)</br>
 otsu
